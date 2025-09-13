@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+}
+
+.zona{
+    height: 500px;
+    width: 900px;
+}
+.gamer{
+    height: 250px;
+    width: 250px;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: black;
+    color: white
+    ;
+}
+.clava{
+    height: 500px;
+    width: 500px;
+    color: black;
+}
+.monitor{
+    height: 500px;
+    width: 500px;
+}
+.ilon{
+
+ height: 150px;
+ width: 250px;
+}
+.ilon2{
+font-size:medium;
+}
+.human{
+    height: 150px;
+    width: 250px;
+}
+.human2{
+    font-size: medium;
+}
+.karta{
+    height: 500px;
+    width:700px;
+}
+.vyluca{
+    font-size: medium;
+}
+.stil{
+    height: 500px;
+    width: 500px;
+}
+.nauchnuk{
+    height:500px;
+    width: 500px;
+}
